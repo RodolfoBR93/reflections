@@ -1,0 +1,7 @@
+1)O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+R) é criado um diretório oculto .git que serve para controlar as versões dos meus commits
+
+2)Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+R) área de preparação de trabalho é a área de trabalho atual, já a área de peparação do repositório é preparada para dar um commit
