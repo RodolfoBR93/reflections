@@ -1,28 +1,7 @@
-﻿1)Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+1) Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
 
-R) o diff mostra as diferenças que ocorrem na mesma linha em arquivos diferentes, e isso nos ajuda a encontrar os erros com mais facilidade
+R)o diff mostra as diferenças que ocorrem na mesma linha em arquivos diferentes, e isso nos ajuda a encontrar os erros com mais facilidade
 
-3)Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+2) Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
 
-R)Prós-commit = vc tem controle do que é salvo, sem salvamentos desnecessários
-Contras-Git =  vc pode esquer um commit
-Prós salvamento automático = é salvo mesmo se vc esquecer
-contra salvamento automático = salva coisas desnecessárias
-
-4) Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
-
-R) sistemas de controle de versão foram criados para salvar códigos de programas que comumente estão em arquivos separados, já google docs foi criado para documento que estao em um único arquivo
-
-5)Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
-
-R) Com o Git log podemos ver todos os commits que já fizemos, e com o git diff podemos ver as diferenças entre cada commit
-
-6)De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
-
-R)O controle de versão salva várias versões do projeto sem editá-los, não podendo editá-los, assim não podemos perder nada
-
-7)Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
-
-R) Quero usar o Git para controlar as versões dos meus aplicativos android, sites, e sistemas desktops
-
-
+é muito bom ter várias versões do meu arquivo, pois se a atual der problemas posso recuperar com as anterirores, principalmente se for um arquivo grande, ou até mesmo se meu programa parar de funcionar
