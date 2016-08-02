@@ -5,3 +5,24 @@ R) é criado um diretório oculto .git que serve para controlar as versões dos meu
 2)Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
 R) área de preparação de trabalho é a área de trabalho atual, já a área de peparação do repositório é preparada para dar um commit
+
+3)Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+R) fazendo um commit por vez, para cada alteração diferente
+
+4)Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+R) se seu estivesse tentando adicionar algo novo ao meu projeto , mas não saberia se iria dar certo ou não, então eu poderia criar um novo branch
+
+5)Como os diagramas ajudam a visualizar a estrutura de branches?
+
+R) dá pra ver todas as alterações feitas, nos branches, e o que cada uma está fazendo
+
+6)Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+R) o pró da mesclagem do git é que não precisamos tar adicionando coisas de um aquivo pro outro e perder tempo, já que se faz isso automáticamente, e os contras é que pode ocasionar conflitos.
+O pró da mesclagem manual é que evitamos conflitos, mas os contras é que perdemos muito tempo.
+
+6)Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+R) adicionamos as alterações do outro branch ao branch atual
