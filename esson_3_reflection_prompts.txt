@@ -6,3 +6,9 @@ R) Sempre que tiver um projeto grande é ou precisar fazer algumas mudanças que
 
 R)Se o git fizesse pull(puxar) as alterações automaticamnte, poderia ocorrer conflitos nos arquivos, eu poderia estar modificando um arquivo no momento e isso não seria legal
 
+3)Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+R) Bifurcação é quando eu copio o repositório de alguém no guithub para meu github.
+clone é quando baixo o repositório de alguém do github para meu computador.
+branches são as versões diferentes do meu projeto.
+
