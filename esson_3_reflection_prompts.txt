@@ -12,3 +12,8 @@ R) Bifurcação é quando eu copio o repositório de alguém no guithub para meu
 clone é quando baixo o repositório de alguém do github para meu computador.
 branches são as versões diferentes do meu projeto.
 
+4) Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+R)poder recuperar os arquivos se algo der errado
+
+
