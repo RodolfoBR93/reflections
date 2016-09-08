@@ -16,4 +16,8 @@ branches são as versões diferentes do meu projeto.
 
 R)poder recuperar os arquivos se algo der errado
 
+5) Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+sairia trocando pendrives e mandando o link do dropbox pra outra pessoa baixar kkk
+
 
