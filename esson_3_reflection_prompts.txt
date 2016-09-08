@@ -21,3 +21,6 @@ R)poder recuperar os arquivos se algo der errado
 sairia trocando pendrives e mandando o link do dropbox pra outra pessoa baixar kkk
 
 
+6) Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+R)testar novas atualizações, sem saber se dará certo ou não
